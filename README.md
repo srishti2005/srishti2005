@@ -1,14 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Srishti Tripathi</h1>
-<h3 align="center" style="color: #8A2BE2;">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=srishti2005&label=Profile%20views&color=8A2BE2&style=flat" alt="srishti2005" /> 
+  <img src="https://komarev.com/ghpvc/?username=srishti2005&label=Profile%20views&color=0e75b6&style=flat" alt="srishti2005" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=srishti2005&theme=onedark&title=Stars,Commit,Issues,PullRequest,Repositories" alt="srishti2005" />
+    <img src="https://github-profile-trophy.vercel.app/?username=srishti2005" alt="srishti2005" />
   </a>
 </p>
 
@@ -25,10 +25,10 @@
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/srishti-tripathi-7a49b6280/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/srishtitripathi2005" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-8A2BE2?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
 
@@ -37,49 +37,49 @@
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-8A2BE2?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Chart.js-8A2BE2?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flask-8A2BE2?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenCV-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit_Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
 </p>
 
@@ -87,7 +87,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti2005&show_icons=true&locale=en&layout=compact&theme=radical" alt="srishti2005" />
-  <img src="https://github-readme-stats.vercel.app/api?username=srishti2005&show_icons=true&locale=en&theme=radical" alt="srishti2005" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti2005&theme=radical" alt="srishti2005" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti2005&show_icons=true&locale=en&layout=compact" alt="srishti2005" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srishti2005&show_icons=true&locale=en" alt="srishti2005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti2005&" alt="srishti2005" />
 </p>
